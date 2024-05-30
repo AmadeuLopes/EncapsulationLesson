@@ -85,7 +85,7 @@ namespace Encapsulationlesson
 
         public override string ToString()
         {
-            return _name + ", $" + Price.ToString("F2", CultureInfo.InvariantCulture) + ", " + Quantity + " unidades, Total value: $" + TotalValueStock();
+            return _name + ", now we are going to see what happens when we change any thing $" + Price.ToString("F2", CultureInfo.InvariantCulture) + ", " + Quantity + " unidades, Total value: $" + TotalValueStock();
         }
     }
 }

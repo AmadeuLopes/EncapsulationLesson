@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Encapsulationlesson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a9ccb6d31c9d9c5a6972b4148cd7a7502699fe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Encapsulationlesson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Encapsulationlesson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
