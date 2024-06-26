@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Encapsulationlesson\\",
+  "WorkspaceRootPath": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|c:\\users\\admin\\source\\repos\\encapsulationlesson\\encapsulationlesson\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|c:\\users\\phoenix\\documents\\learning\\c# learning\\projects\\encapsulationlesson\\encapsulationlesson\\justteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|solutionrelative:encapsulationlesson\\justteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|c:\\users\\phoenix\\documents\\learning\\c# learning\\projects\\encapsulationlesson\\encapsulationlesson\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|solutionrelative:encapsulationlesson\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|c:\\users\\admin\\source\\repos\\encapsulationlesson\\encapsulationlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|c:\\users\\phoenix\\documents\\learning\\c# learning\\projects\\encapsulationlesson\\encapsulationlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4294A39C-363C-4586-875C-F8E92073D91B}|Encapsulationlesson\\Encapsulationlesson.csproj|solutionrelative:encapsulationlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "justteste.cs",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\justteste.cs",
+              "RelativeDocumentMoniker": "Encapsulationlesson\\justteste.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\justteste.cs",
+              "RelativeToolTip": "Encapsulationlesson\\justteste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:21:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Encapsulationlesson\\Encapsulationlesson\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\Product.cs",
               "RelativeDocumentMoniker": "Encapsulationlesson\\Product.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Encapsulationlesson\\Encapsulationlesson\\Product.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\Product.cs",
               "RelativeToolTip": "Encapsulationlesson\\Product.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAAFcAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Encapsulationlesson\\Encapsulationlesson\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\Program.cs",
               "RelativeDocumentMoniker": "Encapsulationlesson\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Encapsulationlesson\\Encapsulationlesson\\Program.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\EncapsulationLesson\\Encapsulationlesson\\Program.cs",
               "RelativeToolTip": "Encapsulationlesson\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
